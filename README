@@ -1,0 +1,9 @@
+#Chris Giglio's Website
+
+This is a website built on Bootstrap and meant to showcase a bit of the HTML and CSS knowledge I have. Since I had never used Bootstrap before, I spend some time combing their examples and docs; in the interest of full disclosure, I did use their headers and footers to ensure full compatibility with modern browsers.
+
+For testing, I ran a local python server (python -m HTTPSimpleServer) and fiddled around with the inspector. I made an effort to make each page a little unique. You'll notice the integration of a Google Maps iframe, an inline pdf, photo grids, and more.
+
+After I had saved a few pages for offline reading, I actually managed to write nearly all the code on a 13 hour bus ride back from Louisville, KY after we wrapped up a 3 game series with their baseball team. Once I was able to do a little light reading, I breezed through assembling the site. I will, however, admit that had I had a little more time, I would've been sure to tidy up the code.
+
+I greatly appreciate the opportunity to make this site and Sooryen's consideration. Hope you like it!
